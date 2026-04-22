@@ -1,1 +1,1 @@
-# agentic-ai-proof-of-concepy
+# agentic-ai-proof-of-concept
